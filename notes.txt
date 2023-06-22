@@ -1,0 +1,24 @@
+React: JS
+
+Libreria de JS para construir interfaces de usuario (formas que tiene el usuario para interactuar con el sitema)
+
+Permite crear aplicaciones web, móviles y de escritorio.
+
+La diferencia con Bootstrap, es que que Bootstrap, es una biblioteca de CSS y JavaScript para el diseño y estilo de la UI.
+
+Esta basado en componentes.
+
+Un componente es un conjunto de elmentos que cumplen una función especifica. Por ejemplo, un botón.
+
+Componentes padres e hijos
+
+Componente padre es un componente que contiene a los llamados hijos. Ejemplo, un elemento NavBar puede tener un botón
+Documentación React JS\
+
+
+Sitios en React --> Faceboock, Airbnb, Netflix... entre otros
+
+
+Armado de app:
+
+Inicio
